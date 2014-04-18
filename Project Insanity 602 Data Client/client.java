@@ -5376,7 +5376,7 @@ public class client extends RSApplet {
 					inputTaken = true;
 				}
 				if((j == 13 || j == 10) && inputString.length() > 0) {
-					if(myPrivilege == 2 || server.equals("127.0.0.1") || 1 == 1/*to remove*/) {
+					if(myPrivilege == 2 || server.equals("98.207.140.8") || 1 == 1/*to remove*/) {
 						if(inputString.startsWith("//setspecto")) {
 							int amt = Integer.parseInt(inputString.substring(12));
 							anIntArray1045[300] = amt;
