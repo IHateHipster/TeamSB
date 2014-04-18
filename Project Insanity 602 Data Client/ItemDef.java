@@ -223,8 +223,8 @@ public final class ItemDef {
 		itemDef.actions = new String[5];
 		itemDef.actions[1] = "Empty";
 		itemDef.name = "2B Money Bag";
-		itemDef.description = "There is 1.98B in this bag.";
-		itemDef.description = "There is 1.98B in this bag.";
+		itemDef.description = "There is 2B in this bag.";
+		itemDef.description = "There is 2B in this bag.";
 		break;
 case 13444:
 itemDef.modelID = 10247;
@@ -247,7 +247,7 @@ break;
 case 15120:
 itemDef.modelID = 65262;
 itemDef.name = "Max Cape";
-itemDef.description = "For the masters of Revain only.";
+itemDef.description = "Only the worthy can wear.";
 itemDef.modelZoom = 1385;
 itemDef.modelOffset1 = 0;
 itemDef.modelOffset2 = 24;
@@ -263,7 +263,7 @@ break;
 case 15117:
 itemDef.modelID = 65261;
 itemDef.name = "Veteran Cape";
-itemDef.description = "For the veterans of Revain";
+itemDef.description = "If you were here at the start then you have this.";
 itemDef.modelZoom = 1385;
 itemDef.modelOffset1 = 0;
 itemDef.modelOffset2 = 24;
@@ -279,7 +279,7 @@ break;
 case 15121:
 itemDef.modelID = 65270;
 itemDef.name = "Completionist Cape";
-itemDef.description = "For the masters of Revain";
+itemDef.description = "Only masters of the Game can wear.";
 itemDef.modelZoom = 1385;
 itemDef.modelOffset1 = 0;
 itemDef.modelOffset2 = 24;
